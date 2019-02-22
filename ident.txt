@@ -1,0 +1,6 @@
+To start the game, first open SICStus prolog, consult 'server.pl' located in prolog folder, then in the interface
+pick the player 1 char, and click start game.
+
+Turma 4, Grupo 10
+Carlos Manuel Pires Brás - up201404616
+Matheus Pereira Gonçalves - up201405081
